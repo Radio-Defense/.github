@@ -23,6 +23,10 @@ Our work is grounded in rigorous, replicable science. We provide the tooling nec
 
 ---
 
+![Toxic Element 15](profile/toxic-element-15.png)
+
+---
+
 ## 🏗️ Architectural Principles
 
 All Radio Defense tooling is built upon a strict set of engineering principles:
@@ -31,6 +35,10 @@ All Radio Defense tooling is built upon a strict set of engineering principles:
 2. **Local-First & Zero Telemetry**: Data is processed locally on the researcher's machine. No personal information is shared with third parties unless explicitly stated with an explanation why. Only files that are part of datasets, such as images, RF captures, and cellular metadata are euploaded to cloud servers for later analysis.
 3. **Cryptographic Verifiability**: Research datasets are exported as signed archives with per-file `SHA-512` sidecars. This does not prove physical correctness, but it makes silent alteration or tampering of contributed datasets mathematically detectable.
 4. **Open Replication**: We design our tools to decentralize data collection. A single measurement is an anecdote; thousands of independently verified, cryptographically signed measurements constitute scientific evidence.
+
+---
+
+![CellScope with simulated connected phone data](profile/cellscope.png)
 
 ---
 
