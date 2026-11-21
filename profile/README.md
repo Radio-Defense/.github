@@ -23,7 +23,7 @@ Our work is grounded in rigorous, replicable science. We provide the tooling nec
 
 ---
 
-![Toxic Element 15](profile/toxic-element-15.png)
+![Toxic Element 15](/profile/toxic-element-15.png)
 
 ---
 
@@ -38,7 +38,7 @@ All Radio Defense tooling is built upon a strict set of engineering principles:
 
 ---
 
-![CellScope with simulated connected phone data](profile/cellscope.png)
+![CellScope with simulated connected phone data](/profile/cellscope.png)
 
 ---
 
