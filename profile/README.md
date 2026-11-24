@@ -1,7 +1,6 @@
 # Radio Defense
 
-**Securing the Electromagnetic Spectrum. Advancing RF Privacy. Empowering Independent Research.**
-
+**Advancing RF Safety. Empowering Independent Research.**
 ---
 
 ## 📡 About Radio Defense
